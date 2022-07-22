@@ -7,3 +7,4 @@ Task 2 : ESP32 start Algorithm
 
 week 3 
 Task 1 : Arm control code HTML
+Task 2 : Aruino code for Arms
